@@ -25,7 +25,7 @@ iii. **ARCHIVE LOGIN**
 <img src = "https://github.com/Chilundika/MedDARC/blob/main/screenshots/archive_login.png" alt = "landing page" width="900px" height="600px">
 
 iv. **MAIN ARCHIVE AREA**
-<img src = "https://github.com/Chilundika/MedDARC/blob/main/screenshots/archive%20main.png" alt = "landing page" width="900px" height="600px">
+<img src = "https://github.com/Chilundika/MedDARC/blob/main/screenshots/archive%20main.png" alt = "landing page" width="600px" height="600px">
 
 -----------------------------------------------------------------------------------------------
 
