@@ -62,7 +62,7 @@ There is still a lot that needs to be improved in this project. Contributions ar
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For any queries or contributions, please contact CHIPO CHILUNDIKA (mailto:dezignbluprint.tech@gmail.com).
+For any queries or contributions, please contact **CHIPO CHILUNDIKA** (mailto:dezignbluprint.tech@gmail.com).
 
 ---
 
