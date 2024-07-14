@@ -3,6 +3,7 @@
 ---
 
 # Medical Data Archiving Web-based System
+<img src = "https://github.com/Chilundika/MedDARC/blob/main/screenshots/index.php.png" alt = "landing page" width="900px" height="600px">
 
 ## Project Description
 This is a simple school project developed to archive and manage medical data through a web-based system. The project is built using PHP, HTML & CSS, and XAMPP for the database.
@@ -12,6 +13,21 @@ user access. However, the implications of implementing such a system include cos
 considerations, data migration challenges, data format compatibility, security risks, ongoing
 maintenance requirements, adherence to legal and regulatory standards, restricted data access,
 and the inherent complexity of data archiving systems.
+
+i. **Login section**: patient_login, doctor_login, staff_login, admin_login.
+
+<img src = "https://github.com/Chilundika/MedDARC/blob/main/screenshots/login%20dropdwn.png" alt = "landing page" width="900px" height="600px">
+
+ii. **ADMIN LOGIN**
+<img src = "https://github.com/Chilundika/MedDARC/blob/main/screenshots/admin_login.png" alt = "landing page" width="900px" height="600px">
+
+iii. **ARCHIVE LOGIN**
+<img src = "https://github.com/Chilundika/MedDARC/blob/main/screenshots/archive_login.png" alt = "landing page" width="900px" height="600px">
+
+iv. **MAIN ARCHIVE AREA**
+<img src = "https://github.com/Chilundika/MedDARC/blob/main/screenshots/archive%20main.png" alt = "landing page" width="900px" height="600px">
+
+-----------------------------------------------------------------------------------------------
 
 ## Features
 - **Login/Admin Login**
