@@ -1,0 +1,103 @@
+body {
+    padding: 0px;
+    flex-grow: 1; /* Ensure main section grows to fill available space */
+    background-color:whitesmoke;
+    background-size: 1550px 650px; /* Adjust the size as needed */; /* Adjust the size as needed */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+form {
+    width: 100%;
+    max-width: 400px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    background-color: #333;
+    color: #fff;
+    width: 100%;
+    box-sizing: border-box;
+    white-space: nowrap;
+}
+
+header h1 {
+    margin: 0px;
+    font-size: 12px;
+    align-items: end;
+    
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+header nav {
+    margin-left: auto;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+    flex-grow: 1; /* Ensure main section grows to fill available space */
+    text-align: center;
+}
+table {
+    width: 80%;
+    height: 100px;
+    border-collapse: collapse;
+    margin: 20px auto;
+    text-align: center;
+}
+
+table th, table td {
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+table th {
+    background:#333;
+    color: #fff;
+}
+
+table tr:nth-child(even) {
+    background: #f4f4f4;
+}
+
+footer {
+    text-align: center;
+    padding: 0px;
+    background-color: #333;
+    color: white;
+    width: 100%;
+}
