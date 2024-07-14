@@ -1,11 +1,17 @@
-Here's a README file for your "Medical Data Archiving Web-based System" project:
+"Medical Data Archiving Web-based System" project:
 
 ---
 
 # Medical Data Archiving Web-based System
 
 ## Project Description
-This is a simple school project developed to archive and manage medical data through a web-based system. The project is built using PHP and XAMPP for the database.
+This is a simple school project developed to archive and manage medical data through a web-based system. The project is built using PHP, HTML & CSS, and XAMPP for the database.
+The significance of the developed system lies in its ability to overcome the limitations of existing
+radiology imaging software by centralizing patient information storage and enabling authorized
+user access. However, the implications of implementing such a system include cost
+considerations, data migration challenges, data format compatibility, security risks, ongoing
+maintenance requirements, adherence to legal and regulatory standards, restricted data access,
+and the inherent complexity of data archiving systems.
 
 ## Features
 - **Login/Admin Login**
@@ -56,7 +62,7 @@ There is still a lot that needs to be improved in this project. Contributions ar
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For any queries or contributions, please contact [Your Name](mailto:your.email@example.com).
+For any queries or contributions, please contact CHIPO CHILUNDIKA (mailto:dezignbluprint.tech@gmail.com).
 
 ---
 
